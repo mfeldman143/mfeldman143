@@ -39,14 +39,9 @@ SageMaker
     Experimental Design
 
 ☁️ Cloud & Infrastructure
-    ☁️ Google Cloud Platform
-    BigQuery, Dataflow, Cloud Functions, Cloud Run
-    
-    ☁️ AWS
-    Lambda, Redshift, DynamoDB, S3, EC2
-    
-    ☁️ Azure
-    Functions, Synapse, Data Factory, Cosmos DB
+    ☁️ Google Cloud Platform:    BigQuery, Dataflow, Cloud Functions, Cloud Run
+    ☁️ AWS:    Lambda, Redshift, DynamoDB, S3, EC2
+    ☁️ Azure:    Functions, Synapse, Data Factory, Cosmos DB
 
 💾 Data Engineering
   🗄️ Databases
