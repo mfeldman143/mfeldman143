@@ -1,9 +1,9 @@
 Hi there 👋
 ✨ Michael Feldman ✨
 
-👨‍💻 Engineer
+👨‍💻 Man Technologist
 
-🌟Engineer: Cloud/Data/Architect/DevOps/MLOps Engineer
+aka Star-Engineer🌟Engineer: Cloud/Data/Architect/DevOps/MLOps Engineer
 
 TL;DR
 🤖AI/ML Engineer with deep expertise in statistics and data science. Built large-scale data systems and ML platforms at Stanford University, healthcare organizations, and tech companies. Google Cloud Hero Award recipient, with multiple certifications across AWS, Azure, and GCP. Skilled in full-stack development, specializing in data-intensive applications, cloud architecture, and ML engineering patterns.
