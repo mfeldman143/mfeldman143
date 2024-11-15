@@ -80,7 +80,14 @@ Statistics & Data Science
   💚 Vue.js
   🅰️ Angular
   📝 TypeScript
-
+  
+👨‍💻 Programming Languages
+  🐍 Python
+  ☕ Java
+  🟨 JavaScript
+  💚 Node.js
+  🔵 Go
+  
 🏗️ Infrastructure
   ⚡ Serverless
   🔄 Microservices
