@@ -17,7 +17,6 @@ Core Focus Areas
 * Data Engineering
 * Statistical Analysis
 
-
 🛠️ Tools & Technologies
 🤖 Machine Learning & AI
 
@@ -30,78 +29,60 @@ Core Focus Areas
 📊 TensorFlow
 🎯 scikit-learn
 
-
-
 📊 Statistics & Data Science
-
-📈 R
-📊 Python Scientific Stack
-
-pandas
-numpy
-scipy
-
+* 📈 R
+* 📊 Python Scientific Stack
+  * pandas
+  * numpy
+  * scipy
 
 📈 Jupyter
-
 ☁️ Cloud & Infrastructure
-
 🌐 Open Source Cloud Tools
-
-🔄 Apache Beam
-🐳 Docker
-☸️ Kubernetes
-🌊 Terraform
-📊 Prometheus/Grafana
-🔄 Apache Airflow
-
-
+  🔄 Apache Beam
+  🐳 Docker
+  ☸️ Kubernetes
+  🌊 Terraform
+  📊 Prometheus/Grafana
+  🔄 Apache Airflow
 
 💾 Databases
-
-🐘 PostgreSQL
-🍃 MongoDB
-⚡ Redis
-📊 Apache Cassandra
-🌳 Apache HBase
-🔍 Elasticsearch
+  🐘 PostgreSQL
+  🍃 MongoDB
+  ⚡ Redis
+  📊 Apache Cassandra
+  🌳 Apache HBase
+  🔍 Elasticsearch
 
 🔄 Data Processing
-
-🌊 Apache Spark
-🔄 Apache Kafka
-📊 Apache Flink
-🏭 Apache NiFi
-📈 Pandas
+  🌊 Apache Spark
+  🔄 Apache Kafka
+  📊 Apache Flink
+  🏭 Apache NiFi
+  📈 Pandas
 
 📊 Analytics & Visualization
-
-📈 Apache Superset
-📊 Grafana
-📉 Kibana
-🔍 Metabase
+  📈 Apache Superset
+  📊 Grafana
+  📉 Kibana
+  🔍 Metabase
 
 👨‍💻 Programming Languages
-
-🐍 Python
-☕ Java
-🟨 JavaScript
-💚 Node.js
-🔵 Go
+  🐍 Python
+  ☕ Java
+  🟨 JavaScript
+  💚 Node.js
+  🔵 Go
 
 🌐 Development
-
-Frontend
-
-⚛️ React
-💚 Vue.js
-🅰️ Angular
-📝 TypeScript
-
+  Frontend
+  ⚛️ React
+  💚 Vue.js
+  🅰️ Angular
+  📝 TypeScript
 
 🏗️ Infrastructure
-
-⚡ Serverless
-🔄 Microservices
-🔒 Security
-🔄 CI/CD (Jenkins, GitLab, GitHub Actions)
+  ⚡ Serverless
+  🔄 Microservices
+  🔒 Security
+  🔄 CI/CD (Jenkins, GitLab, GitHub Actions)
