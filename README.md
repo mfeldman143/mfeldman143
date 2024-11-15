@@ -1,8 +1,9 @@
-Welcome to my README page 👋
+✨ **Michael Feldman** ✨
 
-✨ Michael Feldman ✨
+**Welcome to my README page** 👋
 
-👨‍💻 Technical Leadership
+
+👨‍💻 **Technical Leadership**
 🎯 ML/Cloud Solutions Architect
 💡 Data & AI Engineering Expert
 
@@ -16,81 +17,91 @@ Core Focus Areas
 * Data Engineering
 * Statistical Analysis
 
+
 🛠️ Tools & Technologies
 🤖 Machine Learning & AI
 
 🧠 Large Language Models (LLM)
 👁️ Computer Vision
-🚀 ML Platforms
+🚀 ML/AI Tools
 
-VertexAI
-Azure ML
-SageMaker
+🤗 Hugging Face
+🔥 PyTorch
+📊 TensorFlow
+🎯 scikit-learn
 
-Statistics & Data Science
-  📊 R
-  📉 SAS
-  📈 SPSS
+
+
+📊 Statistics & Data Science
+
+📈 R
+📊 Python Scientific Stack
+
+pandas
+numpy
+scipy
+
+
+📈 Jupyter
 
 ☁️ Cloud & Infrastructure
-  ☁️ Google Cloud Platform
-  💾 BigQuery
-  🔄 Dataflow
-  ⚡ Cloud Functions
-  🚀 Cloud Run
 
-🌩️ AWS
-  ⚡ Lambda
-  💽 Redshift
-  🗄️ DynamoDB
-  📦 S3
-  💻 EC2
+🌐 Open Source Cloud Tools
 
-🔷 Azure
-  ⚡ Functions
-  🔄 Synapse
-  🏭 Data Factory
-  🌐 Cosmos DB
+🔄 Apache Beam
+🐳 Docker
+☸️ Kubernetes
+🌊 Terraform
+📊 Prometheus/Grafana
+🔄 Apache Airflow
 
-🚀 Data Engineering & Databases
-  💽 SQL Server
-  🐘 PostgreSQL
-  🍃 MongoDB
-  ⚡ Redis
 
-🔄 ETL & Processing
-  🔁 SSIS
-  🏭 Data Warehousing
-  🔄 ETL Pipelines
-  🏗️ Data Factory
 
-📊 Analytics & BI & Visualization
-  📊 Power BI
-  📉 Looker/Data Studio
-  📈 Apache Superset
-  📊 Qlik
-  📉 Sisense
+💾 Databases
 
-🔍 Analysis Tools
-  📊 SSAS
-  📋 SSRS
-  🔄 Power Query/Pivot
+🐘 PostgreSQL
+🍃 MongoDB
+⚡ Redis
+📊 Apache Cassandra
+🌳 Apache HBase
+🔍 Elasticsearch
 
-🌐 Development & Fullstack
-  ⚛️ React
-  💚 Vue.js
-  🅰️ Angular
-  📝 TypeScript
-  
+🔄 Data Processing
+
+🌊 Apache Spark
+🔄 Apache Kafka
+📊 Apache Flink
+🏭 Apache NiFi
+📈 Pandas
+
+📊 Analytics & Visualization
+
+📈 Apache Superset
+📊 Grafana
+📉 Kibana
+🔍 Metabase
+
 👨‍💻 Programming Languages
-  🐍 Python
-  ☕ Java
-  🟨 JavaScript
-  💚 Node.js
-  🔵 Go
-  
+
+🐍 Python
+☕ Java
+🟨 JavaScript
+💚 Node.js
+🔵 Go
+
+🌐 Development
+
+Frontend
+
+⚛️ React
+💚 Vue.js
+🅰️ Angular
+📝 TypeScript
+
+
 🏗️ Infrastructure
-  ⚡ Serverless
-  🔄 Microservices
-  🔒 Security
-  🔄 CI/CD
+
+⚡ Serverless
+🔄 Microservices
+🔒 Security
+🔄 CI/CD (Jenkins, GitLab, GitHub Actions)
