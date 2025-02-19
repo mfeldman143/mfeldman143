@@ -4,9 +4,7 @@
 ## Welcome to My GitHub! 👋
 
 ### TL;DR
-I’m an AI/ML Engineer with deep expertise in statistics, data science, and large-scale data systems. I’ve built ML platforms at Stanford University, healthcare organizations, and tech companies. I’m a Google Cloud Hero Award recipient with multiple certifications across AWS, Azure, and GCP. Skilled in full-stack development, cloud architecture, and ML engineering patterns, I focus on delivering data-intensive applications that drive real impact.
-
----
+I’m an AI/ML Engineer with deep expertise in statistics, data science, and large-scale data systems. I’ve built ML platforms at Stanford University, healthcare organizations, and tech companies. I’m a Google Cloud Hero Award recipient and when I have a lot of free time I will pursue studies and complete certifications. Skilled in full-stack development, cloud architecture, and ML engineering patterns.
 
 ## Core Focus Areas
 - **Advanced AI/ML Systems**
@@ -39,7 +37,7 @@ I’m an AI/ML Engineer with deep expertise in statistics, data science, and lar
 ### 💾 Databases
 - **Relational**: PostgreSQL, MySQL, SQL Server  
 - **NoSQL**: MongoDB, DynamoDB, Firestore  
-- **Data Warehousing**: BigQuery, Redshift  
+- **Data Warehousing**: BigQuery, Redshift, Snowflake
 
 ### 🔄 Data Processing
 - **ETL/ELT**: Apache Beam, Airflow  
@@ -59,8 +57,14 @@ I’m an AI/ML Engineer with deep expertise in statistics, data science, and lar
 - **Automation**: Terraform, Ansible
 
 ### Monitoring & Observability
-- Prometheus + Alertmanager
-- Datadog
+- **Metrics & Alerting**: Prometheus, Alertmanager  
+- **APM & Tracing**: Jaeger, OpenTelemetry  
+- **Hosted Solutions**: Datadog, New Relic
+
+### 🛡️ Security & Compliance
+- **Security Scanning**: Snyk, Trivy, SonarQube  
+- **Secrets Management**: HashiCorp Vault  
+- **Standards**: HIPAA, GDPR, SOC 2
 
 ### 🏗️ Infrastructure
 - **Cloud Providers**: AWS, GCP, Azure  
@@ -69,4 +73,5 @@ I’m an AI/ML Engineer with deep expertise in statistics, data science, and lar
 
 ---
 
-Feel free to explore my repositories and reach out if you’d like to collaborate or learn more about my projects. Thank you for stopping by!
+Explore my repositories and reach out if you would like to learn more about my projects.  
+**Thank you for stopping by!**
