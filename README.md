@@ -37,5 +37,3 @@ NVIDIA Certified Professional: Agentic AI (2026) · Google Cloud Professional Da
 ---
 
 *Interested in open-source neuroscience infrastructure, reproducible science, and building tools that make research data FAIR and accessible. Always looking to connect with people working on these problems.*
-
-michaelfeldman@ymail.com · [LinkedIn](https://linkedin.com/in/mfeldman143)
