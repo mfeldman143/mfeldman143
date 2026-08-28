@@ -21,9 +21,8 @@ how a general vision-language model's scene understanding maps onto a real robot
 
 ### 🕸️&nbsp; Graph Libraries
 
-The `mgraph.*` suite — a modern ES module refactoring of the `ngraph.*` ecosystem originally by
-[Andrei Kashcha](https://github.com/anvaka), rebuilt with typed entry points, Vitest, and Rollup
-bundles. All eight packages are published to npm.
+The `mgraph.*` suite — a modern ES module refactoring of the `ngraph.*` ecosystem, rebuilt with
+typed entry points, Vitest, and Rollup bundles. All eight packages are published to npm.
 
 |     |     |     |
 | :-: | :-: | :-- |
@@ -132,6 +131,27 @@ interchange layer between simulation, synthetic data, and robot learning.
 | [instant-ngp](https://github.com/NVlabs/instant-ngp) | ![](https://img.shields.io/github/stars/NVlabs/instant-ngp?label=%E2%98%85) | Instant neural graphics primitives for fast scene reconstruction |
 | [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) | ![](https://img.shields.io/github/stars/UZ-SLAMLab/ORB_SLAM3?label=%E2%98%85) | Visual, visual-inertial, and multi-map SLAM |
 | [Open3D](https://github.com/isl-org/Open3D) | ![](https://img.shields.io/github/stars/isl-org/Open3D?label=%E2%98%85) | Modern library for 3D data processing |
+
+---
+
+## Learning From the Best
+
+People whose code, teaching, and taste shape how I work.
+
+|     |     |     |
+| :-: | :-: | :-- |
+| [karpathy](https://github.com/karpathy) | ![](https://img.shields.io/github/followers/karpathy?label=%F0%9F%91%A5) | Andrej Karpathy — nanoGPT, micrograd; teaching by building from scratch |
+| [lucidrains](https://github.com/lucidrains) | ![](https://img.shields.io/github/followers/lucidrains?label=%F0%9F%91%A5) | Phil Wang — hundreds of faithful paper implementations, attention in every form |
+| [ggerganov](https://github.com/ggerganov) | ![](https://img.shields.io/github/followers/ggerganov?label=%F0%9F%91%A5) | Georgi Gerganov — llama.cpp and whisper.cpp; inference at the edge, where robots live |
+| [anvaka](https://github.com/anvaka) | ![](https://img.shields.io/github/followers/anvaka?label=%F0%9F%91%A5) | Andrei Kashcha — creator of the `ngraph.*` ecosystem my `mgraph.*` suite modernizes |
+| [dusty-nv](https://github.com/dusty-nv) | ![](https://img.shields.io/github/followers/dusty-nv?label=%F0%9F%91%A5) | Dustin Franklin — the Jetson edge-AI container ecosystem |
+| [AtsushiSakai](https://github.com/AtsushiSakai) | ![](https://img.shields.io/github/followers/AtsushiSakai?label=%F0%9F%91%A5) | Atsushi Sakai — PythonRobotics, the canonical readable robotics algorithms |
+| [danijar](https://github.com/danijar) | ![](https://img.shields.io/github/followers/danijar?label=%F0%9F%91%A5) | Danijar Hafner — world models and Dreamer; this page's format borrows from his profile |
+| [RussTedrake](https://github.com/RussTedrake) | ![](https://img.shields.io/github/followers/RussTedrake?label=%F0%9F%91%A5) | Russ Tedrake — Drake and *Underactuated Robotics*; rigor in robot dynamics |
+| [mberman84](https://github.com/mberman84) | ![](https://img.shields.io/github/followers/mberman84?label=%F0%9F%91%A5) | Matthew Berman — hands-on AI tooling and model evaluations |
+
+Off GitHub: **Ilya Sutskever**, whose research program and talks shape how I think about scaling
+and generalization.
 
 ---
 
