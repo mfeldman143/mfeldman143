@@ -13,6 +13,10 @@ Omniverse stack, vision-language-action models, and sim-to-real transfer — and
 Exploring **Gemini Robotics-ER** (Google DeepMind) for embodied reasoning — spatial grounding, and
 how a general vision-language model's scene understanding maps onto a real robot's action space.
 
+**Most interested in:** AI apps and agents · fine-tuning and post-training workflows · research,
+benchmarking, and experimentation · robotics and physical AI · MCP and agent tooling protocols ·
+data infrastructure at scale · simulation and synthetic data · graph-based systems
+
 ### 🤖&nbsp; Robotics
 
 |     |     |     |
