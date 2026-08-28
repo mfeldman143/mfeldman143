@@ -169,3 +169,7 @@ Professional Cloud Architect (2018, 2020)
 *Powered by coffee and an unreasonable determination to extract every last token of value from
 an LLM (which, credit where due, is the sensibility I brought to this line — the LLM just typed
 it).*
+
+<!-- TEASER (staged, not yet public): "I have my own %github% and so should you." Placeholder
+     %github% is a stand-in for a product name to be announced. Swap in the real name and
+     uncomment when ready to publish -- until then this stays invisible in the rendered page. -->
