@@ -167,4 +167,5 @@ Professional Cloud Architect (2018, 2020)
 ---
 
 *Powered by coffee and an unreasonable determination to extract every last token of value from
-an LLM.*
+an LLM (which, credit where due, is the sensibility I brought to this line — the LLM just typed
+it).*
