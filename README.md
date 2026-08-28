@@ -58,7 +58,22 @@ Entries marked `*` are ones I've forked and am actively running.
 | [warp](https://github.com/NVIDIA/warp) | ![](https://img.shields.io/github/stars/NVIDIA/warp?label=%E2%98%85) | Python framework for GPU-accelerated simulation and robotics |
 | [curobo](https://github.com/NVlabs/curobo) | ![](https://img.shields.io/github/stars/NVlabs/curobo?label=%E2%98%85) | CUDA-accelerated motion generation and collision-free planning |
 | [RoboLab](https://github.com/NVlabs/RoboLab) | ![](https://img.shields.io/github/stars/NVlabs/RoboLab?label=%E2%98%85) | Simulation benchmark for evaluating generalist robot policies |
-| [isaac_ros_common](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_common) | ![](https://img.shields.io/github/stars/NVIDIA-ISAAC-ROS/isaac_ros_common?label=%E2%98%85) | GPU-accelerated ROS 2 packages for Jetson and x86 |
+| [physicsnemo](https://github.com/NVIDIA/physicsnemo) | ![](https://img.shields.io/github/stars/NVIDIA/physicsnemo?label=%E2%98%85) | Physics-ML framework for training surrogate and operator models |
+
+### 🔩&nbsp; Isaac ROS & Jetson Deployment
+
+Where the models meet the robot — hardware-accelerated ROS 2 perception on the edge.
+
+|     |     |     |
+| :-: | :-: | :-- |
+| [isaac_ros_visual_slam](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam) | ![](https://img.shields.io/github/stars/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam?label=%E2%98%85) | Visual SLAM and odometry built on GPU-accelerated cuVSLAM |
+| [isaac_ros_nvblox](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox) | ![](https://img.shields.io/github/stars/NVIDIA-ISAAC-ROS/isaac_ros_nvblox?label=%E2%98%85) | Accelerated 3D scene reconstruction feeding Nav2 local costmaps |
+| [isaac_ros_pose_estimation](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) | ![](https://img.shields.io/github/stars/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation?label=%E2%98%85) | Deep-learned 3D object pose estimation |
+| [isaac_ros_cumotion](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_cumotion) | ![](https://img.shields.io/github/stars/NVIDIA-ISAAC-ROS/isaac_ros_cumotion?label=%E2%98%85) | Accelerated arm motion planning and control |
+| [isaac_ros_nitros](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nitros) | ![](https://img.shields.io/github/stars/NVIDIA-ISAAC-ROS/isaac_ros_nitros?label=%E2%98%85) | Zero-copy transport for hardware-accelerated ROS 2 graphs |
+| [jetson-containers](https://github.com/dusty-nv/jetson-containers) | ![](https://img.shields.io/github/stars/dusty-nv/jetson-containers?label=%E2%98%85) | ML container builds for Jetson and JetPack-L4T |
+| [TensorRT](https://github.com/NVIDIA/TensorRT) | ![](https://img.shields.io/github/stars/NVIDIA/TensorRT?label=%E2%98%85) | High-performance inference SDK — the deployment target for edge policies |
+| [holoscan-sdk](https://github.com/nvidia-holoscan/holoscan-sdk) | ![](https://img.shields.io/github/stars/nvidia-holoscan/holoscan-sdk?label=%E2%98%85) | Low-latency sensor processing SDK for streaming workflows |
 
 ### 🌐&nbsp; OpenUSD
 
@@ -95,7 +110,7 @@ interchange layer between simulation, synthetic data, and robot learning.
 | [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | ![](https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis?label=%E2%98%85) | Simulation platform for general-purpose robotics and embodied AI |
 | [drake](https://github.com/RobotLocomotion/drake) | ![](https://img.shields.io/github/stars/RobotLocomotion/drake?label=%E2%98%85) | Model-based design and verification for robotics |
 
-### 🔌&nbsp; ROS 2 & Perception
+### 🔌&nbsp; ROS 2 & Middleware
 
 |     |     |     |
 | :-: | :-: | :-- |
@@ -103,8 +118,17 @@ interchange layer between simulation, synthetic data, and robot learning.
 | [navigation2](https://github.com/ros-navigation/navigation2) | ![](https://img.shields.io/github/stars/ros-navigation/navigation2?label=%E2%98%85) | ROS 2 navigation: planning, control, recovery behaviors |
 | [moveit2](https://github.com/moveit/moveit2) | ![](https://img.shields.io/github/stars/moveit/moveit2?label=%E2%98%85) | Motion planning and manipulation for ROS 2 |
 | [ros2_rust](https://github.com/ros2-rust/ros2_rust)* | ![](https://img.shields.io/github/stars/ros2-rust/ros2_rust?label=%E2%98%85) | Rust bindings for ROS 2 |
+
+### 👁️&nbsp; Perception & 3D
+
+|     |     |     |
+| :-: | :-: | :-- |
+| [FoundationPose](https://github.com/NVlabs/FoundationPose) | ![](https://img.shields.io/github/stars/NVlabs/FoundationPose?label=%E2%98%85) | Unified 6D pose estimation and tracking of novel objects |
 | [FoundationStereo](https://github.com/NVlabs/FoundationStereo)* | ![](https://img.shields.io/github/stars/NVlabs/FoundationStereo?label=%E2%98%85) | Zero-shot stereo matching for depth perception |
+| [BundleSDF](https://github.com/NVlabs/BundleSDF) | ![](https://img.shields.io/github/stars/NVlabs/BundleSDF?label=%E2%98%85) | Neural 6-DoF tracking and 3D reconstruction of unknown objects |
+| [instant-ngp](https://github.com/NVlabs/instant-ngp) | ![](https://img.shields.io/github/stars/NVlabs/instant-ngp?label=%E2%98%85) | Instant neural graphics primitives for fast scene reconstruction |
 | [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) | ![](https://img.shields.io/github/stars/UZ-SLAMLab/ORB_SLAM3?label=%E2%98%85) | Visual, visual-inertial, and multi-map SLAM |
+| [Open3D](https://github.com/isl-org/Open3D) | ![](https://img.shields.io/github/stars/isl-org/Open3D?label=%E2%98%85) | Modern library for 3D data processing |
 
 ---
 
