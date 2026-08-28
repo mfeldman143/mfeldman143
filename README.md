@@ -159,5 +159,3 @@ and generalization.
 (February 2026) · Google Cloud Professional Data Engineer (December 2025) · Neo4j Certified Professional and
 Graph Data Science (2025) · Google Cloud Professional ML Engineer (2020) · Google Cloud
 Professional Cloud Architect (2018, 2020)
-
-**Education** — M.S. Applied Statistics, Penn State
