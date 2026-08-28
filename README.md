@@ -10,9 +10,8 @@ methane emissions dataset now used by [Planet](https://www.planet.com/) and
 Omniverse stack, vision-language-action models, and sim-to-real transfer — and working toward the
 **NVIDIA OpenUSD Development Professional** certification.
 
-Actively evaluating **Gemini Robotics-ER** (Google DeepMind) for embodied reasoning — spatial
-grounding, and how well a general vision-language model's scene understanding survives contact
-with a real robot's action space.
+Exploring **Gemini Robotics-ER** (Google DeepMind) for embodied reasoning — spatial grounding, and
+how a general vision-language model's scene understanding maps onto a real robot's action space.
 
 ### 🤖&nbsp; Robotics
 
